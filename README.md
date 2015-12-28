@@ -1,4 +1,6 @@
-My Awesome Book
+TL;DR Android API Guides
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+简版 [Android API Guides](1)，用尽可能简单的语言概括重点，方便快速浏览和复习。
+
+[1]: http://developer.android.com/guide/index.html
